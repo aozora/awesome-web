@@ -12,7 +12,7 @@ A collection of awesome things regarding the Web Design and Development-
 * [Awesome React](https://github.com/enaqx/awesome-react)
 * [Awesome React Components](https://github.com/brillout/awesome-react-components)
 * [Awesome React Testing](https://github.com/infinitered/awesome-react-testing)
-
+* [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs)
 
 ## A11y
 
@@ -40,7 +40,13 @@ A collection of awesome things regarding the Web Design and Development-
 
 ## Next.js
 
+* [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs)
 * [Bulletproof Next](https://getstarted.sh/bulletproof-next)
+* [Next Plugins](https://github.com/vercel/next-plugins)
+* [Animating Next.js page transitions with Framer Motion](https://reacttricks.com/animating-next-page-transitions-with-framer-motion/)
+* [Exploring Next.js 9 Dynamic Routing & API Routes](https://reacttricks.com/exploring-next-9-dynamic-routing-and-api-routes/)
+* [How to Add Interactive Animations and Page Transitions to a Next.js Web App with Framer Motion](https://www.freecodecamp.org/news/how-to-add-interactive-animations-and-page-transitions-to-a-next-js-web-app-with-framer-motion/#step-3-adding-page-transitions-with-framer-motion-to-a-next-js-app)
+* []()
 
 
 ## CSS
