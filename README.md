@@ -38,6 +38,13 @@ A collection of awesome things regarding the Web Design and Development-
 * [Design System for developers](https://www.learnstorybook.com/design-systems-for-developers/react/en/introduction/)
 
 
+## CSS
+
+* 18 pop choices of css easing:
+    * [gist](https://gist.github.com/argyleink/36e1c0153d2a783d513bd29c9f25aaf2)
+    * [Codepen](https://codepen.io/argyleink/pen/BajvPLz)
+
+
 ## Next.js
 
 * [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs)
@@ -46,16 +53,21 @@ A collection of awesome things regarding the Web Design and Development-
 * [Animating Next.js page transitions with Framer Motion](https://reacttricks.com/animating-next-page-transitions-with-framer-motion/)
 * [Exploring Next.js 9 Dynamic Routing & API Routes](https://reacttricks.com/exploring-next-9-dynamic-routing-and-api-routes/)
 * [How to Add Interactive Animations and Page Transitions to a Next.js Web App with Framer Motion](https://www.freecodecamp.org/news/how-to-add-interactive-animations-and-page-transitions-to-a-next-js-web-app-with-framer-motion/#step-3-adding-page-transitions-with-framer-motion-to-a-next-js-app)
-* []()
 
 
-## CSS
+## React
 
-* 18 pop choices of css easing:
-    * [gist](https://gist.github.com/argyleink/36e1c0153d2a783d513bd29c9f25aaf2)
-    * [Codepen](https://codepen.io/argyleink/pen/BajvPLz)
+* [Adobe React Aria](https://react-spectrum.adobe.com/react-aria)
+
+
+## Testing
+
+### Chaos Testing
+
+* [Pseudo localization](https://github.com/tryggvigy/pseudo-localization)
 
 
 ## Inspirations
 
 * [Responsive JP](https://responsive-jp.com)
+
