@@ -71,3 +71,52 @@ A collection of awesome things regarding the Web Design and Development-
 
 * [Responsive JP](https://responsive-jp.com)
 
+
+## Icons
+
+* [Mono Icons: A simple, consistent open-source icon set designed to be used in a wide variety of digital products.](https://icons.mono.company/)
+
+
+## Online Generators/Tools
+
+* [React Skeleton - Create Content Loader](https://skeletonreact.com/)
+
+* [Gradient Collection: Lens Flare - Gradient Magic](https://www.gradientmagic.com/collection/lensflare)
+
+* [primitive.js – drawing images with geometric primitives](https://ondras.github.io/primitive.js/)
+
+* [Blush: Illustrations for everyone](https://blush.design/)
+
+* [Beautiful CSS box-shadow examples - CSS Scan](https://getcssscan.com/css-box-shadow-examples)
+
+* [BGJar | Free svg background image generator for your websites](https://bgjar.com/)
+
+* [Blobmaker - Make organic SVG shapes for your next design](https://www.blobmaker.app/)
+
+* [Clippy — CSS clip-path maker](https://bennettfeely.com/clippy/)
+
+* [Shape Shifter](https://shapeshifter.design/)
+
+* [SVG-edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html)
+
+* [Responsive Breakpoints](https://www.responsivebreakpoints.com/)
+
+* [Remove Background](https://www.remove.bg/)
+
+* [Squoosh](https://squoosh.app/editor)
+
+* [SVGOMG](https://jakearchibald.github.io/svgomg/)
+
+* [URL-enc SVG](https://yoksel.github.io/url-encoder/)
+
+* [Google Fonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
+
+* [Grid Gen](https://cssgrid-generator.netlify.com/)
+
+* [Compound grid gen](https://codepen.io/michellebarker/full/zYOMYWv)
+
+* [Typography Editor](https://codyhouse.co/ds/globals/typography)
+
+* [Make a smooth shadow, friend](https://brumm.af/shadows)
+
+* [Omatsuri](https://omatsuri.app/)
