@@ -17,6 +17,8 @@ A collection of awesome things regarding the Web Design and Development-
 * [Awesome React Components](https://github.com/brillout/awesome-react-components)
 * [Awesome React Testing](https://github.com/infinitered/awesome-react-testing)
 * [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs)
+* [Awesome Jest](https://github.com/jest-community/awesome-jest)
+
 
 ## A11y
 
