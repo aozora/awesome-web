@@ -8,6 +8,8 @@ A collection of awesome things regarding the Web Design and Development-
 * [a11y-dialog](https://github.com/HugoGiraudel/a11y-dialog)
 * [Tabpanelwidget](https://tabpanelwidget.com/#le-code): vanilla, react, vue, angular versions
 * [accessible-autocomplete from GOV.UK](https://github.com/alphagov/accessible-autocomplete): vanilla & react
+* Video Player: [Plyr.io](https://plyr.io/)
+  Accessibility test: https://scottvinkle.me/blogs/work/how-accessible-is-the-html-video-player
 
 
 # Awesome lists
