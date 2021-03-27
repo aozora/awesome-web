@@ -86,6 +86,16 @@ A collection of awesome things regarding the Web Design and Development-
 * [Mono Icons: A simple, consistent open-source icon set designed to be used in a wide variety of digital products.](https://icons.mono.company/)
 
 
+## Animations
+
+### SVG Animations
+
+* GSAP
+* [SVG.js](https://svgjs.com/docs/3.0/)
+* [Lottie](https://airbnb.design/lottie/)
+* [Svgator](svgator.com)
+
+
 ## Online Generators/Tools
 
 * [React Skeleton - Create Content Loader](https://skeletonreact.com/)
