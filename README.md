@@ -3,6 +3,7 @@ A collection of awesome things regarding the Web Design and Development-
 
 # JavaScript Component
 
+* [Complete guide to Accessible Front-end Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
 * [Duet Date Picker](https://github.com/duetds/date-picker): WCAG 2.1 compliant date picker
 * [Vime.js - Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...](https://vimejs.com/)
 * [a11y-dialog](https://github.com/HugoGiraudel/a11y-dialog)
