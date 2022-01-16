@@ -78,6 +78,7 @@ A collection of awesome things regarding the Web Design and Development-
 * [Awesome Svelte](https://github.com/TheComputerM/awesome-svelte)
 * [Awesome Svelte](https://github.com/rocketlaunchr/awesome-svelte)
 * [Svelte Society](https://sveltesociety.dev/)
+* [Svelte DatoCMS](https://github.com/lukaszwisniewski88/svelte-datocms)
 
 ### Svelte Forms
 
