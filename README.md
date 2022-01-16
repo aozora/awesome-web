@@ -71,6 +71,25 @@ A collection of awesome things regarding the Web Design and Development-
 * [Reach UI](https://reach.tech/)
 
 
+## Svelte
+
+* [Svelte.dev](https://svelte.dev)
+* [SvelteKit](https://kit.svelte.dev/)
+* [Awesome Svelte](https://github.com/TheComputerM/awesome-svelte)
+* [Awesome Svelte](https://github.com/rocketlaunchr/awesome-svelte)
+* [Svelte Society](https://sveltesociety.dev/)
+
+### Svelte Forms
+
+* [Felte](https://felte.dev/)
+* [Svelte Calendar](https://6edesign.github.io/svelte-calendar/)
+
+### Svelte + Three.js
+
+* [3D with Svelte and Three.js](https://javascript.plainenglish.io/3d-with-svelte-and-three-js-f4366f342f9f)
+
+
+
 ## Testing
 
 ### Chaos Testing
