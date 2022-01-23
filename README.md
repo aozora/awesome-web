@@ -79,11 +79,18 @@ A collection of awesome things regarding the Web Design and Development-
 * [Awesome Svelte](https://github.com/rocketlaunchr/awesome-svelte)
 * [Svelte Society](https://sveltesociety.dev/)
 * [Svelte DatoCMS](https://github.com/lukaszwisniewski88/svelte-datocms)
+* [Svelte vs Next.js](https://gist.github.com/nberlette/c7ee7e1773fb55cf4ff1b713e748969e)
+
+### Images
+* [Svelte Image](https://github.com/matyunya/svelte-image)
 
 ### Svelte Forms
 
 * [Felte](https://felte.dev/)
 * [Svelte Calendar](https://6edesign.github.io/svelte-calendar/)
+
+### HTTP
+* [Svelte Query](https://sveltequery.vercel.app/)
 
 ### Svelte + Three.js
 
