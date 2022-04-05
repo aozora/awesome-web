@@ -21,6 +21,7 @@ A collection of awesome things regarding the Web Design and Development-
 * [Awesome React Testing](https://github.com/infinitered/awesome-react-testing)
 * [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs)
 * [Awesome Jest](https://github.com/jest-community/awesome-jest)
+* [Awesome Three.js](https://github.com/fritx/awesome-threejs)
 
 
 ## A11y
@@ -66,6 +67,7 @@ A collection of awesome things regarding the Web Design and Development-
 
 ## React
 
+* [Radix UI](https://www.radix-ui.com/)
 * [Adobe React Aria](https://react-spectrum.adobe.com/react-aria)
 * [Reach UI](https://reach.tech/)
 
@@ -95,6 +97,13 @@ A collection of awesome things regarding the Web Design and Development-
 * [SVG.js](https://svgjs.com/docs/3.0/)
 * [Lottie](https://airbnb.design/lottie/)
 * [Svgator](svgator.com)
+
+
+## Three.js
+
+* [Awesome Three.js](https://github.com/fritx/awesome-threejs)
+* [Three.js DevTools](https://github.com/threejs/three-devtools)
+
 
 
 ## Online Generators/Tools
