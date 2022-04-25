@@ -87,6 +87,9 @@ A collection of awesome things regarding the Web Design and Development-
 * [Svelte Society](https://sveltesociety.dev/)
 * [Svelte DatoCMS](https://github.com/lukaszwisniewski88/svelte-datocms)
 * [Svelte vs Next.js](https://gist.github.com/nberlette/c7ee7e1773fb55cf4ff1b713e748969e)
+* [](https://github.com/stephane-vanraes/renderless-svelte)
+* [](https://www.houdinigraphql.com)
+* [SvelteKit Auth](https://github.com/Dan6erbond/sk-auth)
 
 ### Images
 * [Svelte Image](https://github.com/matyunya/svelte-image)
