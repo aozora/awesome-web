@@ -76,7 +76,9 @@ A collection of awesome things regarding the Web Design and Development-
 
 * [Awesome Three.js](https://github.com/fritx/awesome-threejs)
 * [Three.js DevTools](https://github.com/threejs/three-devtools)
+* [](https://github.com/Fasani/three-js-resources)
 * [](https://github.com/ektogamat/threejs-andy-bolierplate)
+* [The Big List of three.js Tips and Tricks!](https://discoverthreejs.com/tips-and-tricks/)
 
 
 
@@ -88,10 +90,13 @@ A collection of awesome things regarding the Web Design and Development-
 * [Awesome Svelte](https://github.com/rocketlaunchr/awesome-svelte)
 * [Svelte Society](https://sveltesociety.dev/)
 * [Svelte DatoCMS](https://github.com/lukaszwisniewski88/svelte-datocms)
+* [Svelte for the Experienced React Dev](https://css-tricks.com/svelte-for-the-experienced-react-dev/)
 * [Svelte vs Next.js](https://gist.github.com/nberlette/c7ee7e1773fb55cf4ff1b713e748969e)
 * [](https://github.com/stephane-vanraes/renderless-svelte)
 * [](https://www.houdinigraphql.com)
 * [SvelteKit Auth](https://github.com/Dan6erbond/sk-auth)
+
+* [Rich Harris - The Road to SvelteKit 1.0 (Svelte Society NYC)](https://www.youtube.com/watch?v=s6a1pbTVcUs)
 
 
 ### Images
