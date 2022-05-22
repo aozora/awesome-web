@@ -74,6 +74,8 @@ A collection of awesome things regarding the Web Design and Development-
 
 ## Three.js
 
+* [Awesome Three.js](https://github.com/fritx/awesome-threejs)
+* [Three.js DevTools](https://github.com/threejs/three-devtools)
 * [](https://github.com/ektogamat/threejs-andy-bolierplate)
 
 
@@ -91,8 +93,10 @@ A collection of awesome things regarding the Web Design and Development-
 * [](https://www.houdinigraphql.com)
 * [SvelteKit Auth](https://github.com/Dan6erbond/sk-auth)
 
+
 ### Images
 * [Svelte Image](https://github.com/matyunya/svelte-image)
+
 
 ### Svelte Forms
 
@@ -135,11 +139,9 @@ A collection of awesome things regarding the Web Design and Development-
 * [Svgator](svgator.com)
 
 
-## Three.js
+## Dev Tools / Utils
 
-* [Awesome Three.js](https://github.com/fritx/awesome-threejs)
-* [Three.js DevTools](https://github.com/threejs/three-devtools)
-
+[FontKit](https://github.com/foliojs/fontkit)
 
 
 ## Online Generators/Tools
