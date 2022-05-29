@@ -95,6 +95,7 @@ A collection of awesome things regarding the Web Design and Development-
 * [](https://github.com/stephane-vanraes/renderless-svelte)
 * [](https://www.houdinigraphql.com)
 * [SvelteKit Auth](https://github.com/Dan6erbond/sk-auth)
+* [Svelte Auto Import](https://github.com/yuanchuan/sveltekit-autoimport)
 
 * [Rich Harris - The Road to SvelteKit 1.0 (Svelte Society NYC)](https://www.youtube.com/watch?v=s6a1pbTVcUs)
 
@@ -102,19 +103,22 @@ A collection of awesome things regarding the Web Design and Development-
 ### Images
 * [Svelte Image](https://github.com/matyunya/svelte-image)
 
-
 ### Svelte Forms
 
 * [Felte](https://felte.dev/)
 * [Svelte Calendar](https://6edesign.github.io/svelte-calendar/)
 
-### HTTP
+### Fetch/Query
 * [Svelte Query](https://sveltequery.vercel.app/)
 
 ### Svelte + Three.js
 
+* [Threlte](https://threlte.xyz/)
 * [3D with Svelte and Three.js](https://javascript.plainenglish.io/3d-with-svelte-and-three-js-f4366f342f9f)
 
+### UI Components
+
+* [Headless UI](https://svelte-headlessui.goss.io/)
 
 
 ## Testing
